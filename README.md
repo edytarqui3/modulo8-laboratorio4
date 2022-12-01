@@ -69,4 +69,4 @@ docker compose-compose up -d
 ![Ejecucion](pantallas/frontend.png)
 ### Ejecucion servicios docker ###
 
-![Ejecucion](pantallas/servicios.png)
+![Ejecucion](pantallas/servicios.PNG)
